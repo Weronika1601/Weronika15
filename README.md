@@ -5,6 +5,7 @@
 </head>
 <body>
  <body bgcolor="red" text="black">
+  h1{color:rgb(199,45,24);}
 <h1>Balet</h1>
 <p>Pochodzenie słowa balet wywodzi się od włoskiego ballo</p>
  </body>
