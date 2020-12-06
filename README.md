@@ -2,12 +2,14 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
-<title>Project:Strona o tańcu</title>
+
 </head>
 <body>
 <h1>Balet</h1>
 <p>Pochodzenie słowa balet wywodzi się od włoskiego ballo</p>
-<body bgcolor="yellow"> 
+ .red {
+            background-color: rgb(255, 0, 0);
+        }
 <h2>Histroia baletu</h2>
 <p>Początkowe inspiracje do powstania baletu pochodzą z renesansowych maskarad karnawałowych, które zyskały na swojej popularności we Włoszech. Tam przerodziły się w dworskie widowiska z elementami śpiewu, które chętnie przejęła XVI – wieczna Francja. Widowiska dworskie zastępowano widowiskami baletowymi (ballets de cour), których szczególny rozkwit nastąpił za panowania Ludwika XIV. Król wykształcił pierwszych zawodowych choreografów i pedagogów.</p>
 </body>
